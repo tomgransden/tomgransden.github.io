@@ -4,8 +4,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Thomas Gransden',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  tagline: 'Personal site',
+  favicon: 'img/favicontg.ico',
 
   url: 'https://tomgransden.github.io', // Your website URL
   baseUrl: '/',
