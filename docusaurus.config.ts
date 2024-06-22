@@ -47,9 +47,9 @@ const config: Config = {
       title: 'Thomas Gransden Dev Blog',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/phone.svg',
       },
-      items: [],
+      items: [{label: "About me", to: "about-me" }],
     },
     footer: {
       style: 'dark',
