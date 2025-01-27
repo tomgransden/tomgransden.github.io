@@ -8,12 +8,12 @@
     <subtitle>Thomas Gransden Blog</subtitle>
     <icon>https://tomgransden.github.io/img/favicontg.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome Docusaurus]]></title>
+        <title type="html"><![CDATA[Welcome]]></title>
         <id>https://tomgransden.github.io/welcome-docusaurus-v2</id>
         <link href="https://tomgransden.github.io/welcome-docusaurus-v2"/>
         <updated>2024-06-21T19:04:11.000Z</updated>
         <summary type="html"><![CDATA[This is my first post on Docusaurus.]]></summary>
-        <content type="html"><![CDATA[<p>Hi</p>]]></content>
+        <content type="html"><![CDATA[<p>Coming soon</p>]]></content>
         <author>
             <name>Thomas Gransden</name>
             <uri>https://github.com/tomgransden</uri>

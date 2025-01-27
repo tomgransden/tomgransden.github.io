@@ -9,12 +9,12 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Welcome Docusaurus]]></title>
+            <title><![CDATA[Welcome]]></title>
             <link>https://tomgransden.github.io/welcome-docusaurus-v2</link>
             <guid>https://tomgransden.github.io/welcome-docusaurus-v2</guid>
             <pubDate>Fri, 21 Jun 2024 19:04:11 GMT</pubDate>
             <description><![CDATA[This is my first post on Docusaurus.]]></description>
-            <content:encoded><![CDATA[<p>Hi</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Coming soon</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
