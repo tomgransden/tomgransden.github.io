@@ -13,7 +13,8 @@
         <link href="https://tomgransden.github.io/welcome-docusaurus-v2"/>
         <updated>2024-06-21T19:04:11.000Z</updated>
         <summary type="html"><![CDATA[This is my first post on Docusaurus.]]></summary>
-        <content type="html"><![CDATA[<p>Coming soon</p>]]></content>
+        <content type="html"><![CDATA[<p>Hi! I'm Tom, welcome to my blog. I will mainly be posting my own notes about React Native.</p>
+<p>Hope you find them useful.</p>]]></content>
         <author>
             <name>Thomas Gransden</name>
             <uri>https://github.com/tomgransden</uri>
