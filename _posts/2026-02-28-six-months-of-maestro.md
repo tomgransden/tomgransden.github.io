@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Take it away Maestro! 6 months of test automation in React Native
+title: Take it away Maestro! 6 months of test automation in React Native
 date: 2026-02-26 09:26:16 +0000
 ---
 
