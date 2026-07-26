@@ -24,7 +24,7 @@ There is a famous tweet by Guillermo Rauch, an esteemed frontend developer withi
     <a href="https://t.co/Tj6kLdHpgK">https://t.co/Tj6kLdHpgK</a>
     Upptime is web site monitoring tool powered solely by Github actions.
     Its Svelte static site provides outage history and long-term trend charts
-  </p>&mdash; hungry kitty (@sineausr931)
+  </p>&mdash; kentcdodds (kentcdodds)
   <a href="https://x.com/kentcdodds/status/960723172591992832">June 4, 2021</a>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
